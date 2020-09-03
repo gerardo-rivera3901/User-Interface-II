@@ -21,4 +21,10 @@ vertical-align: baseline;
 }
 /*End of Reset*/
 
+*{
+    box-sizing: border-box;
+    border: 1px solid grey;
+    max-width: 100%;
+}
+
 /*Header Styles*/
